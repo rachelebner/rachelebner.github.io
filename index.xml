@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Racheli Ebner&#39;s TechStuff</title>
+    <link>http://rachelebner.github.io/</link>
+    <description>Recent content on Racheli Ebner&#39;s TechStuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Jun 2020 10:38:15 +0300</lastBuildDate>
+    
+	<atom:link href="http://rachelebner.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Starting with Hugo, and troubleshooting the tutorial</title>
+      <link>http://rachelebner.github.io/posts/hugo-tutorial-1/</link>
+      <pubDate>Fri, 12 Jun 2020 10:38:15 +0300</pubDate>
+      
+      <guid>http://rachelebner.github.io/posts/hugo-tutorial-1/</guid>
+      <description>I tried to set up my own GitHub blog using jekyll and got stuck. I left it alone.
+Then jumped on the opportunity to have a guided session wokring in it with the Tech Blogger&amp;rsquo;s community of &amp;ldquo;Baot IL&amp;rdquo;
+I wrote this post as part of setting up the new blog,and also to document what I did, where I got stuck and how I overcame it
+The tutorial I followed the step in this tutorial:</description>
+    </item>
+    
+    <item>
+      <title>Welcome to my TechStuff blog</title>
+      <link>http://rachelebner.github.io/posts/welcome/</link>
+      <pubDate>Thu, 11 Jun 2020 10:38:15 +0300</pubDate>
+      
+      <guid>http://rachelebner.github.io/posts/welcome/</guid>
+      <description>I write about tech stuff from my day to day work</description>
+    </item>
+    
+  </channel>
+</rss>
